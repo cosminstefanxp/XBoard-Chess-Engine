@@ -1,0 +1,121 @@
+Flip4itEngine is playing BLACK
+rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -
+Move: G8-F6
+List:D7-D5 G8-F6 F7-F5 D7-D6 C7-C6 E7-E6 
+
+Poz:56-6
+Piesa:1
+SAN:Nf6
+Obtinem mutarea adversarului...
+Time Xboard: 29988Mutare adversar:c4
+ r  n  b  q  k  b     r 
+ p  p  p  p  p  p  p  p 
+                n       
+                        
+       P  P             
+                        
+ P  P        P  P  P  P 
+ R  N  B  Q  K  B  N  R 
+
+FLAGS: RRW RLW RRB RLB CAW CAB CADOW CADOB
+   48   0  0  0  0  1  
+
+rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -
+Move: G7-G6
+List:E7-E6 G7-G6 C7-C5 E7-E5 C7-C6 D7-D6 
+
+Poz:48-6
+Piesa:0
+SAN:g6
+Obtinem mutarea adversarului...
+Time Xboard: 29975Mutare adversar:Nc3
+ r  n  b  q  k  b     r 
+ p  p  p  p  p  p     p 
+                n  p    
+                        
+       P  P             
+       N                
+ P  P        P  P  P  P 
+ R     B  Q  K  B  N  R 
+
+FLAGS: RRW RLW RRB RLB CAW CAB CADOW CADOB
+   48   0  0  0  0  1  
+
+rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -
+Move: F8-G7
+List:D7-D5 F8-G7 
+
+Poz:56-5
+Piesa:2
+SAN:Bg7
+Obtinem mutarea adversarului...
+Time Xboard: 29959Mutare adversar:e4
+ r  n  b  q  k        r 
+ p  p  p  p  p  p  b  p 
+                n  p    
+                        
+       P  P  P          
+       N                
+ P  P           P  P  P 
+ R     B  Q  K  B  N  R 
+
+FLAGS: RRW RLW RRB RLB CAW CAB CADOW CADOB
+   48   0  0  0  0  1  
+
+rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq -
+Move: D7-D6
+List:D7-D6 
+
+Poz:48-3
+Piesa:0
+SAN:d6
+Obtinem mutarea adversarului...
+Time Xboard: 29943Mutare adversar:Be3
+ r  n  b  q  k        r 
+ p  p  p     p  p  b  p 
+          p     n  p    
+                        
+       P  P  P          
+       N     B          
+ P  P           P  P  P 
+ R        Q  K  B  N  R 
+
+FLAGS: RRW RLW RRB RLB CAW CAB CADOW CADOB
+   48   0  0  0  0  1  
+
+rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N1B3/PP3PPP/R2QKBNR b KQkq -
+Move: -
+List:
+
+Exiting OPENINGS Area!
+
+Engine BLACK:
+Time left 29943. Time per move 8310.
+Enemy Time left 0. Time per move 8310.
+Returning San
+Starting Iterative deepening with duration 7310 for level 4
+S-a ales pozitia 23 
+S-a ales pozitia 23 
+-->S-a generat complet nivelul 4 si mai sunt 6750 milisecunde.
+Starting Iterative deepening with duration 6750 for level 5
+S-a ales pozitia 23 
+S-a ales pozitia 23 
+-->S-a generat complet nivelul 5 si mai sunt 3970 milisecunde.
+S-a ales poz 23 cu aux 21 din nr total copii root 34 si valoarea 21
+S-a ales nodul 23 varianta 160(45 -> 30) adica Ng4:
+ r  n  b  q  k        r 
+ p  p  p     p  p  b  p 
+          p        p    
+                        
+       P  P  P     n    
+       N     B          
+ P  P           P  P  P 
+ R        Q  K  B  N  R 
+
+FLAGS: RRW RLW RRB RLB CAW CAB CADOW CADOB
+   48   0  0  0  0  1  
+
+Returner San
+Tree Disposed
+Mutarea este Ng4 
+Obtinem mutarea adversarului...

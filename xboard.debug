@@ -1,0 +1,339 @@
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+shuffleOpenings = 0
+resolved -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1 at pixel size 34
+  to -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1
+resolved -adobe-helvetica-bold-r-normal--14-100-100-100-p-82-iso8859-1 at pixel size 14
+  to -adobe-helvetica-bold-r-normal--14-100-100-100-p-82-iso8859-1
+resolved -adobe-helvetica-medium-r-normal--14-100-100-100-p-76-iso8859-1 at pixel size 14
+  to -adobe-helvetica-medium-r-normal--14-100-100-100-p-76-iso8859-1
+xboard 4.5.2 + xchess
+Reset(1, 0) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+200 >first : xboard
+protover 2
+shuffleOpenings = 0
+269 <first : feature myname="Flip4itEngine" san=1 usermove=1
+269 >first : accepted myname
+269 >first : accepted san
+269 >first : accepted usermove
+269 <first : feature done=1
+269 >first : accepted done
+270 >first : new
+random
+270 >first : level 40 5 0
+270 >first : post
+270 >first : hard
+10878 >first : force
+10880 >second: xboard
+protover 2
+10882 <second: feature myname="Flip4itEngine" san=1 usermove=1
+10882 >second: accepted myname
+10882 >second: accepted san
+10883 >second: accepted usermove
+10883 <second: feature done=1
+10883 >second: accepted done
+10884 >second: new
+random
+10884 >second: level 40 5 0
+10884 >second: post
+10884 >second: hard
+10884 >second: force
+10886 >first : computer
+10886 >second: computer
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+10886 >first : black
+time odds: 1.000000 1.000000 
+10886 >first : time 30000
+10886 >first : otim 30000
+10886 >first : white
+book hit = (NULL)
+10886 >first : go
+nps: w=-1, b=-1
+10906 <first : move d4
+machine move 0, castling = 7 0 4 7 0 4
+Disambiguate in:  0(3,-1)-(3,3) = 0 (-)
+Disambiguate out: 0(3,1)-(3,3) = 0 (-)
+7 0 4 7 0 4 Legality test? d2d4
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=0 (3,1)-(3,3) -
+7 0 4 7 0 4 Legality test? d2d4
+movetype=21, promochar=0=-
+MateTest: K=1, my=16, his=16
+move: d2d4
+, parse: d4 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=1 bmm=0 ep=-4, reps=6
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+10907 >second: time 30000
+10907 >second: otim 29998
+book hit = (NULL)
+10907 >second: usermove 10907 >second: d4
+10907 >second: black
+10907 >second: go
+AnimateMove: piece 0 slides from 3,1 to 3,3 
+11018 <second: move Nf6
+machine move 1, castling = 7 0 4 7 0 4
+Parser Qa1: yyleng=3,  23(-1,-1)-(5,5) = 0 ( )
+Disambiguate in:  23(-1,-1)-(5,5) = 0 (-)
+Disambiguate out: 23(6,7)-(5,5) = 0 (-)
+7 0 4 7 0 4 Legality test? g8f6
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=23 (6,7)-(5,5) -
+MateTest: K=1, my=16, his=16
+move: g8f6
+, parse: Nf6 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=2 bmm=0 ep=-4, reps=6
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting first
+11019 >first : time 29998
+11019 >first : otim 29988
+book hit = (NULL)
+11019 >first : usermove 11019 >first : Nf6
+AnimateMove: piece 23 hops from 6,7 to 5,5 
+11159 <first : move c4
+machine move 2, castling = 7 0 4 7 0 4
+Disambiguate in:  0(2,-1)-(2,3) = 0 (-)
+Disambiguate out: 0(2,1)-(2,3) = 0 (-)
+7 0 4 7 0 4 Legality test? c2c4
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=0 (2,1)-(2,3) -
+7 0 4 7 0 4 Legality test? c2c4
+movetype=21, promochar=0=-
+MateTest: K=1, my=16, his=16
+move: c2c4
+, parse: c4 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=3 bmm=0 ep=-4, reps=6
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting second
+11159 >second: time 29988
+11159 >second: otim 29983
+book hit = (NULL)
+11159 >second: usermove 11159 >second: c4
+AnimateMove: piece 0 slides from 2,1 to 2,3 
+11294 <second: move g6
+machine move 3, castling = 7 0 4 7 0 4
+Disambiguate in:  22(6,-1)-(6,5) = 0 (-)
+Disambiguate out: 22(6,6)-(6,5) = 0 (-)
+7 0 4 7 0 4 Legality test? g7g6
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=22 (6,6)-(6,5) -
+7 0 4 7 0 4 Legality test? g7g6
+movetype=21, promochar=0=-
+MateTest: K=1, my=16, his=16
+move: g7g6
+, parse: g6 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=4 bmm=0 ep=-4, reps=6
+4 ep=-3
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting first
+11296 >first : time 29983
+11296 >first : otim 29975
+book hit = (NULL)
+11296 >first : usermove 11296 >first : g6
+AnimateMove: piece 22 slides from 6,6 to 6,5 
+11449 <first : move Nc3
+machine move 4, castling = 7 0 4 7 0 4
+Parser Qa1: yyleng=3,  1(-1,-1)-(2,2) = 0 ( )
+Disambiguate in:  1(-1,-1)-(2,2) = 0 (-)
+Disambiguate out: 1(1,0)-(2,2) = 0 (-)
+7 0 4 7 0 4 Legality test? b1c3
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=1 (1,0)-(2,2) -
+MateTest: K=1, my=16, his=16
+move: b1c3
+, parse: Nc3 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=5 bmm=0 ep=-4, reps=6
+5 ep=-4
+4 ep=-3
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting second
+11450 >second: time 29975
+11450 >second: otim 29968
+book hit = (NULL)
+11450 >second: usermove 11450 >second: Nc3
+AnimateMove: piece 1 hops from 1,0 to 2,2 
+11607 <second: move Bg7
+machine move 5, castling = 7 0 4 7 0 4
+Parser Qa1: yyleng=3,  24(-1,-1)-(6,6) = 0 ( )
+Disambiguate in:  24(-1,-1)-(6,6) = 0 (-)
+Disambiguate out: 24(5,7)-(6,6) = 0 (-)
+7 0 4 7 0 4 Legality test? f8g7
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=24 (5,7)-(6,6) -
+MateTest: K=1, my=16, his=16
+move: f8g7
+, parse: Bg7 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=6 bmm=0 ep=-4, reps=6
+6 ep=-4
+5 ep=-4
+4 ep=-3
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting first
+11608 >first : time 29968
+11608 >first : otim 29959
+book hit = (NULL)
+11608 >first : usermove 11608 >first : Bg7
+AnimateMove: piece 24 slides from 5,7 to 6,6 
+11768 <first : move e4
+machine move 6, castling = 7 0 4 7 0 4
+Disambiguate in:  0(4,-1)-(4,3) = 0 (-)
+Disambiguate out: 0(4,1)-(4,3) = 0 (-)
+7 0 4 7 0 4 Legality test? e2e4
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=0 (4,1)-(4,3) -
+7 0 4 7 0 4 Legality test? e2e4
+movetype=21, promochar=0=-
+MateTest: K=1, my=16, his=16
+move: e2e4
+, parse: e4 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=7 bmm=0 ep=-4, reps=6
+7 ep=-3
+6 ep=-4
+5 ep=-4
+4 ep=-3
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting second
+11769 >second: time 29959
+11769 >second: otim 29952
+book hit = (NULL)
+11769 >second: usermove 11769 >second: e4
+AnimateMove: piece 0 slides from 4,1 to 4,3 
+11932 <second: move d6
+machine move 7, castling = 7 0 4 7 0 4
+Disambiguate in:  22(3,-1)-(3,5) = 0 (-)
+Disambiguate out: 22(3,6)-(3,5) = 0 (-)
+7 0 4 7 0 4 Legality test? d7d6
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=22 (3,6)-(3,5) -
+7 0 4 7 0 4 Legality test? d7d6
+movetype=21, promochar=0=-
+MateTest: K=1, my=16, his=16
+move: d7d6
+, parse: d6 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=8 bmm=0 ep=-4, reps=6
+8 ep=-3
+7 ep=-3
+6 ep=-4
+5 ep=-4
+4 ep=-3
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting first
+11933 >first : time 29952
+11933 >first : otim 29943
+book hit = (NULL)
+11933 >first : usermove 11933 >first : d6
+AnimateMove: piece 22 slides from 3,6 to 3,5 
+14671 <first : move Be3
+machine move 8, castling = 7 0 4 7 0 4
+Parser Qa1: yyleng=3,  2(-1,-1)-(4,2) = 0 ( )
+Disambiguate in:  2(-1,-1)-(4,2) = 0 (-)
+Disambiguate out: 2(2,0)-(4,2) = 0 (-)
+7 0 4 7 0 4 Legality test? c1e3
+(7,0) (0,0) (4,0) (7,7) (0,7) (4,7) castling rights
+TC string = ':40/300'
+mps=40 tc=300000 inc=0
+CoordsToAlgebraic, piece=2 (2,0)-(4,2) -
+MateTest: K=1, my=16, his=16
+move: c1e3
+, parse: Be3 (
+)
+MateTest: K=1, my=16, his=16
+repeat test fmm=9 bmm=0 ep=-4, reps=6
+9 ep=-4
+8 ep=-3
+7 ep=-3
+6 ep=-4
+5 ep=-4
+4 ep=-3
+3 ep=-3
+2 ep=-4
+1 ep=-3
+0 ep=-4
+time odds: 1.000000 1.000000 
+Interrupting second
+14672 >second: time 29943
+14672 >second: otim 29678
+book hit = (NULL)
+14672 >second: usermove 14672 >second: Be3
+AnimateMove: piece 2 slides from 2,0 to 4,2 
+GameEnds(28, xboard exit, 2)
+GE(28, xboard exit, 2) bare king k=16 color=22
+Interrupting first
+17252 >first : result * {xboard exit}
+Interrupting second
+17252 >second: result * {xboard exit}
+17255 >first : force
+17255 >second: force
+17255 >first : quit
+17258 >second: quit
